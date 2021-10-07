@@ -32,3 +32,9 @@ body {
   background-color: hsl(71, 73%, 54%);
   border-color: hsl(71, 73%, 54%);
 }
+
+@media (max-width: 900px) {
+  .container {
+   margin: 0 auto 0;
+  }
+}
